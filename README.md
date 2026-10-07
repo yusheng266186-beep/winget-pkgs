@@ -1,3 +1,22 @@
+<!-- project-navigation:start -->
+## 项目概览
+
+| 项目 | 说明 |
+| --- | --- |
+| 分类 | 导航与上游贡献 |
+| 平台 | Windows / YAML 软件包清单 |
+| 当前定位 | Microsoft 上游 fork |
+
+Microsoft WinGet 社区软件包清单仓库的个人 fork，保留上游文档和贡献规则。
+
+[项目总导航](https://github.com/yusheng266186-beep/yusheng266186-beep)
+
+上游是 [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)。本 fork 作为个人仓库导航中的上游贡献入口；包清单、许可证和贡献规范以原文为准。
+
+<!-- project-navigation:end -->
+
+---
+
 # Windows Package Manager Community Repository
 
 [![Gitter](https://img.shields.io/gitter/room/Microsoft/winget-pkgs)](https://gitter.im/Microsoft/winget-pkgs)
